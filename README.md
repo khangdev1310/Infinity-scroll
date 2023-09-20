@@ -12,9 +12,17 @@ To install and run the project on your local machine, follow these steps:
 
    ```bash
    git clone https://github.com/khangdev1310/Infinity-scroll.git
+
    ```
 
-2. Install necessary library
+2. Install necessary library:
+
+   ```bash
    npm install
+   ```
+
 3. Start my project
+   ```bash
    npm run dev
+   ```
+4. Open a web browser and access to view the project in development mode.
